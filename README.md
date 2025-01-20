@@ -1,2 +1,16 @@
-# How-to-Lazy-Load-Data-While-Panning-in-Flutter-Charts
-A quick-start example that helps you to lazy load data while panning in the Syncfusion® Flutter Charts widget. You will learn how to enable panning and load data with an indicator while swiping at run time in the Charts widget.
+# myflutterapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
